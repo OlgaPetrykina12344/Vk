@@ -1,6 +1,3 @@
-from typing import Dict, List, Optional, Iterator
-
-
 class Movie:
     """Класс для представления фильма."""
 
